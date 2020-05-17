@@ -1,5 +1,7 @@
 {
   "name": "Aero",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
